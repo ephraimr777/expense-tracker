@@ -1,16 +1,87 @@
-# React + Vite
+# 💰 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern Expense Tracker web application built using React, Firebase, and Tailwind CSS. It helps users manage their income, expenses, budgets, and financial insights through an intuitive dashboard.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://expense-tracker-eight-sigma-29.vercel.app
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/ephraimr777/expense-tracker
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Features
+
+- 🔐 Firebase Authentication
+- 📊 Dashboard Analytics
+- 💵 Income & Expense Tracking
+- 💰 Budget Management
+- 📈 Interactive Charts
+- 🔍 Search Transactions
+- 📅 Date Filtering
+- 📄 Export to CSV
+- 📑 Export to PDF
+- 🌙 Dark Mode
+- 🔔 Toast Notifications
+- 🗑 Delete Confirmation Modal
+- 📱 Fully Responsive Design
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+- Recharts
+- React Toastify
+
+### Backend / Database
+
+- Firebase Authentication
+- Cloud Firestore
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📷 Screenshots
+
+(Add screenshots here after uploading them.)
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/ephraimr777/expense-tracker.git
+
+cd expense-tracker
+
+npm install
+
+npm run dev
+```
+
+---
+
+## Build
+
+```bash
+npm run build
+```
+
+---
+
+## Author
+
+**E_SHAWN PROJECTS**
+
+Designed & Developed by Ephraim
