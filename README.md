@@ -52,11 +52,6 @@ https://github.com/ephraimr777/expense-tracker
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots here after uploading them.)
-
----
 
 ## Installation
 
